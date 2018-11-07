@@ -1,0 +1,5 @@
+## Compile in terminal with: ##
+make
+
+## Run in terminal with: ##
+./earthinvaders
